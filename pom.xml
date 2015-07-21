@@ -5,7 +5,7 @@
 	<artifactId>myapplication</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
-	<name>myapplication</name>
+	<name>myapplication webapp</name>
 	<repositories>
 		<repository>
 			<id>eap</id>
